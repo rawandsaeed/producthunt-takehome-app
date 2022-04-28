@@ -20,7 +20,7 @@ Import the project to Android Studio and wait until it resolved all the packages
 
 ### App Demo 
 
-<img src="assets/productHunt-demo.gif" style="zoom:20%;" />
+<img src="assets/productHunt-demo.gif" style = "width:300px"/>
 
 
 
