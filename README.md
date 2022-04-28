@@ -20,7 +20,7 @@ Import the project to Android Studio and wait until it resolved all the packages
 
 ### App Demo 
 
-<img src="/Users/eosios/Developer/MyApps/Prep/ProductHuntSampleAppp/assets/productHunt-demo.gif" style="zoom:30%;" />
+<img src="assets/productHunt-demo.gif" style="zoom:20%;" />
 
 
 
@@ -45,7 +45,7 @@ Import the project to Android Studio and wait until it resolved all the packages
 
 ## Architecture 
 
-![](/Users/eosios/Developer/MyApps/Prep/ProductHuntSampleAppp/assets/mvvm-architecure.png)
+![](assets/mvvm-architecure.png)
 
 ## API
 
