@@ -1,0 +1,17 @@
+query GetPostDetails($id: ID!){
+    post(id:$id) {
+         id
+         name
+        thumbnail {
+            url
+        }
+        tagline
+        description
+        votesCount
+        makers {
+            id
+            url
+            username
+        }
+    }
+}

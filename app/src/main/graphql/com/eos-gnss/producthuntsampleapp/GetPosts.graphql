@@ -1,0 +1,20 @@
+query GetPosts {
+    posts {
+        edges {
+            node {
+                id
+                name
+                description
+                thumbnail {
+                    url
+                }
+                tagline
+                votesCount
+                makers {
+                    id
+                    name
+                }
+            }
+        }
+    }
+}

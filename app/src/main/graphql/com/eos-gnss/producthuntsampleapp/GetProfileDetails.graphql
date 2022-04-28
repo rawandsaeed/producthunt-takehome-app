@@ -1,0 +1,8 @@
+query GetProfileDetails($id: ID!){
+    user(id: $id) {
+        name
+        username
+        profileImage
+        headline
+    }
+}
